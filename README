@@ -1,0 +1,31 @@
+# Employee Tracker
+  
+## Description
+This project is a tracker that allowes the owner of a company toorganize his employee infromation. this tracker allows the owener to view the employees and add new employees. This project has the ability to update employee information. .
+undefined.
+This helps business oweners become more organized with their employee information. .
+my project is different becuase it runs on the backend without any front end incorporated. .
+
+
+## Installation
+```
+To run this application you will need to make sure that your terminal is up to date, in order to do this you enter "npm i". Next you make sure that TypeScript is installed and up to date, in order to do this you  enter "npm -i typescript". Lastly, you will instal the inquirer package, in order to do this you will enter "npm i inquirer". Once all the necessary criteria is installed now you can enter "npm run dev' which will build and run the application in the comand line.
+```
+
+
+## Usage
+when using this repo you can add your own employee information into the seed.sql file to preload this infomrtion into the command line. 
+
+## Credits
+Zawadi Brown
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+## Features
+A command line application that proides business owners a place to store their employees information. 
+
+## How to Contribute
+if you would like to contribute to my repository you can take this command line information and create somethign more specifc to your environment. 

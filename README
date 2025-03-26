@@ -10,7 +10,9 @@ my project is different becuase it runs on the backend without any front end inc
 ## Installation
 ```
 To run this application you will need to make sure that your terminal is up to date, in order to do this you enter "npm i". Next you make sure that TypeScript is installed and up to date, in order to do this you  enter "npm -i typescript". Lastly, you will instal the inquirer package, in order to do this you will enter "npm i inquirer". Once all the necessary criteria is installed now you can enter "npm run dev' which will build and run the application in the comand line.
+Here is the link:
 ```
+[![Watch the video](https://go.screenpal.com/watch/cTeOqfni4id)](https://go.screenpal.com/watch/cTeOqfni4id)
 
 
 ## Usage
